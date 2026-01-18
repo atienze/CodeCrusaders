@@ -79,7 +79,7 @@ function App() {
       return <FlightData accessToken={accessToken} />;
     } else {
       return <div>Failed to fetch access token.</div>;
-      // return (
+      // return ( (KEEP COMMENTED OUT)
       //   <div className="loading-message">
       //     Fetching API token, please wait...
       //   </div>
