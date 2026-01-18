@@ -1,1 +1,19 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=18682846&assignment_repo_type=AssignmentRepo)
+# Code Crusaders Travel Planner
+
+## Description
+A travel planning final project made in our web development class.
+You can add events, locations, and hotels to a planner. 
+
+## Installation
+1. Clone the repository
+2. Navigate to the project directory:
+    ```bash
+    npm start
+    ```
+
+### note on HOTELS
+Hotels uses a google test search engine api for the hotel images,
+we only get 50 requests a day.
+
+### Videos
+See max_schaefer.mp4 for working hotel using the google api
